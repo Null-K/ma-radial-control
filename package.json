@@ -1,0 +1,20 @@
+{
+  "name": "com.puddingkc.ma-radial-control",
+  "version": "1.0.0",
+  "displayName": "MA Radial Control",
+  "description": "Modular Avatar extension plugin that provides a visual threshold-triggering feature for Radial Puppet menu items.",
+  "unity": "2022.3",
+  "author": {
+    "name": "PuddingKC"
+  },
+  "dependencies": {
+    "nadena.dev.ndmf": ">=1.5.0",
+    "nadena.dev.modular-avatar": ">=1.10.0"
+  },
+  "keywords": [
+    "modular-avatar",
+    "vrchat",
+    "radial-puppet",
+    "avatar"
+  ]
+}

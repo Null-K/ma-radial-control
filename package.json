@@ -5,9 +5,10 @@
   "description": "Modular Avatar extension plugin that provides a visual threshold-triggering feature for Radial Puppet menu items.",
   "unity": "2022.3",
   "author": {
-    "name": "PuddingKC"
+    "name": "PuddingKC",
+    "url": "https://github.com/Null-K"
   },
-  "dependencies": {
+  "vpmDependencies": {
     "nadena.dev.ndmf": ">=1.5.0",
     "nadena.dev.modular-avatar": ">=1.10.0"
   },
